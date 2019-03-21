@@ -7,8 +7,10 @@ Aspiring software engineer with a background in customer analytics. Recently too
 
 #### Attention to detail
 
-My most recent role required high levels of attention to detail to ensure accurate reporting to stakeholders including executive and board members, this was important as this information was being used to make strategic decisions about the organisation. Dealing with large quantities of customer data in a compliant manner as well as ensuring accurate targeting for marketing communucations was key to meeting the strategic objectives.
-- low levels of unsubscribes through effective management of data usage
+My most recent role required high levels of attention to detail to ensure accurate reporting to stakeholders including executive and board members, this was important as this information was being used to make strategic decisions about the organisation. 
+- Dealing with large quantities of customer data in a compliant manner.
+- Ensuring accurate targeting for marketing communucations was key to meeting the strategic objectives.
+- Maintained low levels of unsubscribes through effective management of data usage.
 
 #### Communication
 
