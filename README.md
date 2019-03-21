@@ -61,6 +61,6 @@ Internal and external query resolution
 
 
 #### Interests
-Horse riding
-Yoga
-Sci Fi
+- Horse riding
+- Yoga
+- Sci Fi
