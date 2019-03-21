@@ -1,50 +1,64 @@
-## Your Name
+## Ayelisha Amoah
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Aspiring software engineer with a background in customer analytics. Recently taken the leap and joined Makers Academy with hopes of joining an innovative, fast paced tech company.
+
 
 ## Skills
 
-#### This Skill
+#### Attention to detail
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+My most recent role required high levels of attention to detail to ensure accurate reporting to stakeholders including executive and board members, this was important as this information was being used to make strategic decisions about the organisation. Dealing with large quantities of customer data in a compliant manner as well as ensuring accurate targeting for marketing communucations was key to meeting the strategic objectives.
+- low levels of unsubscribes through effective management of data usage
 
-- Experience
-- Achievements
-- Evidence
+#### Communication
 
-#### Another Skill
+Working across teams during research projects, involving requirement gathering and communcating research plans. Excellent written communcation developed through report writing for stakeholders across multiple levels of the organisation. 
+marketing team to improve campaign targeting and manage the use of customer data according to CRM strategy. I have also started a blog to document the process I have gone through in order to become a sofware engineer.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Time management 
+I was responsible for coordinating numerous research projects across the site, and have managed and prioritised the workload of a junior member of the team whilst working toward multiple deadlines within a fast-paced organization.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Apr '19 to Jun '19)
+- Excited about tech for social good
+- Fast, independent learner
+- Great collaborator
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
+12 week intesive software engineering bootcamp that focuses on:
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Oxford Brookes University (Sep '11 to Jun '14)
+Accounting and Finance BSc (hons)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+#### CIMA (May '16)
+CIMA Certificate in Business Accounting (CIMA Cert BA)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Southbank Centre** (Jan '18 to Feb '19)    
+*Audience Insights Officer*
+Coordinating customer research and analysis within the marketing communications department.
+Co-ordinating research across the site
+Experience of Google Analytics for marketing performance analytics
+Understanding of GDPR in relation to marketing communications
+Building emails and editing HTML
+
+**Southbank Centre** (May '17 to Jan '18)   
+*Audience Insights Assisitant*
+Responsible for extracting data from our CRM system for use across all marketing email communication as well as event analysis and reporting.
+
+**Southbank Centre** (Sep '15 to May '17)   
+*Accounts Payable Assistant*  
+Posting to the accounts payable ledger and reconciling direct debit payments
+Responding to queries regarding payments and troubleshooting issues with the finance system.
+Internal and external query resolution
+
+
+#### Interests
+Horse riding
+Yoga
+Brazilian Ju Jitsu
