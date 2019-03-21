@@ -43,21 +43,22 @@ CIMA Certificate in Business Accounting (CIMA Cert BA)
 
 **Southbank Centre** (Jan '18 to Feb '19)    
 *Audience Insights Officer*
-Coordinating customer research and analysis within the marketing communications department.
-Co-ordinating research across the site
-Experience of Google Analytics for marketing performance analytics
-Understanding of GDPR in relation to marketing communications
-Building emails and editing HTML
+- Coordinating customer research and analysis within the marketing communications department
+- Co-ordinating research across the site
+- Experience of Google Analytics for marketing performance analytics
+- Understanding of GDPR in relation to marketing communications
+- Building emails and editing HTML
 
 **Southbank Centre** (May '17 to Jan '18)   
 *Audience Insights Assisitant*
-Responsible for extracting data from our CRM system for use across all marketing email communication as well as event analysis and reporting.
+- Responsible for extracting data from our CRM system for use across all marketing email communication
+- Event analysis and reporting
 
 **Southbank Centre** (Sep '15 to May '17)   
 *Accounts Payable Assistant*  
-Posting to the accounts payable ledger and reconciling direct debit payments
-Responding to queries regarding payments and troubleshooting issues with the finance system.
-Internal and external query resolution
+- Posting to the accounts payable ledger and reconciling direct debit payments
+- Responding to queries regarding payments and troubleshooting issues with the finance system
+- Internal and external query resolution
 
 
 #### Interests
