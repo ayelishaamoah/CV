@@ -1,6 +1,6 @@
 ## Ayelisha Amoah
 
-Aspiring software engineer with a background in customer analytics. Recently taken the leap and joined Makers Academy with hopes of joining an innovative, fast paced tech company.
+Aspiring software engineer with a background in customer analytics. Recently took the leap and joined Makers Academy with hopes of joining an innovative, fast paced tech company.
 
 
 ## Skills
