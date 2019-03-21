@@ -27,7 +27,7 @@ I was responsible for coordinating numerous research projects across the site, a
 - Fast, independent learner
 - Great collaborator
 
-12 week intesive software engineering bootcamp that focuses on:
+12 week intensive software engineering bootcamp that focuses on:
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
