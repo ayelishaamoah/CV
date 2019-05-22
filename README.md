@@ -54,13 +54,6 @@ CIMA Certificate in Business Accounting (CIMA Cert BA)
 - Responsible for extracting data from our CRM system for use across all marketing email communication
 - Event analysis and reporting
 
-**Southbank Centre** (Sep '15 to May '17)   
-*Accounts Payable Assistant*  
-- Posting to the accounts payable ledger and reconciling direct debit payments
-- Responding to queries regarding payments and troubleshooting issues with the finance system
-- Internal and external query resolution
-
-
 #### Interests
 - Horse riding
 - Yoga
