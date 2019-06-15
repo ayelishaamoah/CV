@@ -1,7 +1,7 @@
-## Ayelisha Amoah
+# Ayelisha Amoah
 
-Aspiring software engineer with a background in customer analytics. Recently took the leap and joined Makers Academy with hopes of joining an innovative, fast paced tech company.
-
+### Bio
+Recent graduate of Makers Academy with a background in customer analytics and a new found passion for software engineering. I am comfortable approaching new technologies and enjoy exploring new material in my spare time. I enjoy working as part of a team and sharing knowledge to help my team grow.
 
 ## Skills
 
@@ -57,4 +57,3 @@ CIMA Certificate in Business Accounting (CIMA Cert BA)
 #### Interests
 - Horse riding
 - Yoga
-- Sci Fi
