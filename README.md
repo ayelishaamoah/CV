@@ -3,6 +3,13 @@
 ### Bio
 Recent graduate of Makers Academy with a background in customer analytics and a new found passion for software engineering. I am comfortable approaching new technologies and enjoy exploring new material in my spare time. I enjoy working as part of a team and sharing knowledge to help my team grow.
 
+## Projects
+|Title | Description | Development Timeframe | Tech Stack | QA/ CI/ CD |
+--- | --- | --- |--- | --- |
+|[Jarvis](https://github.com/ayelishaamoah/Jarvis-App)| My final project at Makers, with a close-knit team of four, we set out to build our first mobile app which is a completely new domain and tech stack. Our app is able to access native APIs such as location, permissions, speech as well as accessing local storage. Jarvis aims to provide users with a personalised daily report to improve the start to their day.| 8 days | React-Native.js, Travis CI | Jest, EXPO|
+| [Acebook](https://github.com/ayelishaamoah/acebook-Isambard) | Week 8 group project which meant building a facebook clone, this time in a much larger group of six, which presented both challenges and benefits with a lot of learnings along the way. This project focused on working in a team whilst using high quality processes to build a product we were proud of. | 9 days |  Ruby on Rails, PostgreSQL | RSpec, Travis CI, Heroku |
+|[Makers BnB](https://github.com/ayelishaamoah/Makersbnb) | Week 6 engineering project working as part of a team of four to build an AirBnB clone, revisiting topics covered previously in the course such as MVC architecture, user authentication, password encryption, database design and CRUD actions. | 3 days | Sinatra, Ruby, PostgreSQL | RSpec |
+
 ## Skills
 
 #### Attention to detail
